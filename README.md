@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Oh 👋
 
+- ⚓ I’m currently working at Naval Cyber Security
+- 🔭 I’m currently working on a personal T3 project
+- 🌱 I’m currently learning some Backend stuff
+- ⚡ Fun fact: I love learning new things!
 <!--
 **JackDanielOh/JackDanielOh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![JackDanielOh's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackDanielOh&count_private=true)

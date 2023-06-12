@@ -1,5 +1,5 @@
 ### Hi there, I'm Oh 👋
-
+---------------------------------------------------------------------------------
 - ⚓ I’m currently working at Naval Cyber Security
 - 🔭 I’m currently working on a personal T3 project
 - 🌱 I’m currently learning some Backend stuff
@@ -19,4 +19,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+**🏆 Github Profile Trophy**
+---------------------------------------------------------------------------------
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=JackDanielOh&rank=-C,-B)](https://github.com/JackDanielOh/github-profile-trophy)
+
+**📈 Current Streak**
+---------------------------------------------------------------------------------
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JackDanielOh)](https://git.io/streak-stats)

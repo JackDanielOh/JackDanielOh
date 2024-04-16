@@ -1,9 +1,10 @@
 ### Hi there, I'm Oh 👋
 ---------------------------------------------------------------------------------
-- ⚓ I’m currently working at Naval Cyber Security
-- 🔭 I’m currently working on a personal T3 project
-- 🌱 I’m currently learning some Backend stuff
-- ⚡ Fun fact: I love learning new things!
+- 👀 I'm currently working on a web plaform service
+- 🥸 As a side, I'm working to finish up my indie game (almost done!)
+- 🔭 Always on a look out for tech stacks that provides scalable solution with low cost and bundle size
+- 🌱 Studying AI (AGI looks amazing!)
+- ⚡ Fun fact: I try a web frame every month, ditching it if I can't getting working within 3 hours after install
 <!--
 **JackDanielOh/JackDanielOh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,7 +24,7 @@ Here are some ideas to get you started:
 **🏆 Github Profile Trophy**
 ---------------------------------------------------------------------------------
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JackDanielOh&rank=-C,-B)](https://github.com/JackDanielOh/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=JackDanielOh&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/JackDanielOh/github-profile-trophy)
 
 **📈 Current Streak**
 ---------------------------------------------------------------------------------

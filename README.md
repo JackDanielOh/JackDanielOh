@@ -1,10 +1,7 @@
 ### Hi there, I'm Oh 👋
 ---------------------------------------------------------------------------------
 - 👀 I'm currently working on a web plaform service
-- 🥸 As a side, I'm working to finish up my indie game (almost done!)
 - 🔭 Always on a look out for tech stacks that provides scalable solution with low cost and bundle size
-- 🌱 Studying AI (AGI looks amazing!)
-- ⚡ Fun fact: I try a web frame every month, ditching it if I can't getting working within 3 hours after install
 <!--
 **JackDanielOh/JackDanielOh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
